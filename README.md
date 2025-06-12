@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmad Shayan 👋  
-![](https://komarev.com/ghpvc/?username=ahmadshayan&color=green)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-ID)
+![](https://komarev.com/ghpvc/?username=AhmadShayan1112&color=green)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadshayan1112)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadShayan1112)
 
 ---
 
@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats
 
-| ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-ID&show_icons=true&theme=radical) | [![Ahmad's Streak](https://streak-stats.demolab.com?user=YOUR-GITHUB-ID&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadShayan1112&show_icons=true&theme=radical) | [![Ahmad's Streak](https://streak-stats.demolab.com?user=AhmadShayan1112&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-ID&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadShayan1112&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
 ---
 
@@ -54,8 +54,8 @@
 ## 💬 Let's Connect
 
 📬 **Email:** ahmedshayan1112@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)  
-👨‍💻 **GitHub:** [github.com/YOUR-GITHUB-ID](https://github.com/YOUR-GITHUB-ID)  
+🌐 **LinkedIn:** [linkedin.com/in/ahmadshayan1112](https://www.linkedin.com/in/ahmadshayan1112)  
+👨‍💻 **GitHub:** [github.com/AhmadShayan1112](https://github.com/AhmadShayan1112)  
 
 ---
 
