@@ -54,7 +54,7 @@
 ## 💬 Let's Connect
 
 📬 **Email:** ahmedshayan1112@gmail.com  
-🌐 **LinkedIn:** [linkedin.com/in/ahmadshayan1112](https://www.linkedin.com/in/ahmadshayan1112)  
+🌐 **LinkedIn:** [linkedin.com/in/ahmadshayan1112](https://www.linkedin.com/in/ahmed-shayan-820337221)  
 👨‍💻 **GitHub:** [github.com/AhmadShayan1112](https://github.com/AhmadShayan1112)  
 
 ---
