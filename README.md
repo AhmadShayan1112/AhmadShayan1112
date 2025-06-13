@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science undergraduate at FAST NUCES | Lahore, Pakistan  
+🎓 Computer Science Graduate at FAST NUCES | Lahore, Pakistan  
 🔬 Data Scientist | Machine Learning Enthusiast | LLM + RAG Practitioner  
 🧠 Interested in NLP, Computer Vision, Generative Models, and Applied Deep Learning  
 💼 Freelance ML Developer on Fiverr | Teaching Associate at FAST NUCES  
